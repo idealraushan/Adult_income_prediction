@@ -1,1 +1,7 @@
 # Adult_income_prediction
+
+
+The prominent inequality of wealth and income is  a huge concern in the United States. The principle of universal moral equality ensures sustainable development and improve the economic stability of a nation.
+In this project, our work aim is to analyse and predict whether a person's income of U.S is above 50K dollars per year or below above 50K dollars per year based on several attributes from the census data. The Adult Census Income data was extracted from 1994 US Census database  by Ronny Kohavi and Barry Becker. The dataset contains  features about the people and the labels which we have to predict and the labels are discrete and binary, So the problem is a Supervised Classification type.
+This study  shows the usage of machine learning and data mining technique that provide a solution to the income equality problem. The adult census dataset has been used for this purpose.
+
