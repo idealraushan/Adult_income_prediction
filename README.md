@@ -8,7 +8,7 @@ This study  shows the usage of machine learning and data mining technique that p
 Keywords :- Analysis , Dataset , supervised, Classification, machine learning ,LGBM Classifier, data mining.
 
 Introduction :- 
-The US Adult Income Dataset  is a dataset that is widely used in tutorial-based machine learning tasks. The classical approach is to use the dataset to train a model and predict the income based on the several attributes and features. 
+ The classical approach is to use the dataset to train a model and predict the income based on the several attributes and features. 
 The Adult Census Income data was extracted from 1994 US Census database . The dataset contains 32561 records with various attributes such as occupation, age, income and so on. Exploratory data analysis will be done between dependent and independent variables and various insights are concluded from EDA. 
 
 
